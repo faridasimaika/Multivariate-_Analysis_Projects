@@ -7,12 +7,12 @@ Welcome to the Multivariate Analysis Repository! This collection features projec
 
 - [R Code](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/Project%201%20RScript.R): This R code file demonstrates the implementation of outlier detection techniques and Hotelling's T2 test in a multivariate context.
 
-- [Report](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/Project%201%20Report.pdf): A report summarizing the results and insights gained from the outlier detection analysis and  Hotelling's T2 test.
+- [Report](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/Project%201%20Report.pdf): A report summarizing the results and insights gained from the outlier detection analysis and Hotelling's T2 test.
 
 ### 2. Discriminant Analysis & Cluster Analysis
 
-- **[`discriminant_analysis.R`](Discriminant_Analysis/discriminant_analysis.R)**: R code for executing discriminant analysis techniques.
+- [Discriminant Analysis Code](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/FLDA%20Project%202%20-%20Rscript%20-%20Farida%20%26Katia.R): R code for executing discriminant analysis techniques.
 
-- **[`cluster_analysis.R`](Cluster_Analysis/cluster_analysis.R)**: R code showcasing the application of cluster analysis algorithms.
+- [Cluster Analysis Code](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/Clustering.R): R code showcasing the application of cluster analysis algorithms.
 
-- **[`discriminant_analysis_report.pdf`](Discriminant_Analysis/discriminant_analysis_report.pdf)**: A report outlining the findings and implications derived from discriminant analysis.
+- [Report](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/Discriminant%20Analysis%20and%20Clustering%20Project%20-%20Multivariate.pdf): A report outlining the findings and implications derived from both discriminant and cluster analysis.
