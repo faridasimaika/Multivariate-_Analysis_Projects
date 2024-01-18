@@ -7,7 +7,7 @@ Welcome to the Multivariate Analysis Repository! This collection features projec
 
 - [R Code](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/Project%201%20RScript.R): This R code file demonstrates the implementation of outlier detection techniques and Hotelling's T2 test in a multivariate context.
 
-- **[`outlier_detection_report.pdf`](Outlier_Detection/outlier_detection_report.pdf)**: A report summarizing the results and insights gained from the outlier detection analysis and  Hotelling's T2 test.
+- [Report](https://github.com/faridasimaika/Multivariate_Analysis_Projects/blob/main/Project%201%20Report.pdf): A report summarizing the results and insights gained from the outlier detection analysis and  Hotelling's T2 test.
 
 ### 2. Discriminant Analysis & Cluster Analysis
 
